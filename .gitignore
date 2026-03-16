@@ -16,4 +16,3 @@ drizzle
 tmp/
 test.http
 .secrets
-wrangler.jsonc
